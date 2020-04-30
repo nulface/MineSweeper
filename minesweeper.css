@@ -1,0 +1,63 @@
+/* 
+background is c0c0c0
+highlights are ffffff
+shading is 7b7b7b
+ */
+
+.menu{
+    -fx-font-size: 14.0px;
+}
+
+.menu-bar{
+	-fx-background-color: #7b7b7b; 
+}
+.menu-item{
+}
+
+.radio-button{
+	-fx-focus-color: transparent;
+}
+
+.radio-label{
+	-fx-text-align: center;
+}
+
+.button{
+	-fx-focus-color: transparent;
+}
+
+.text-field{
+	-fx-focus-color: transparent;
+	-fx-font-size: 14.0px;
+	-fx-background-color: #c0c0c0; 
+	-fx-border-width: 0px 0px 1px 0px;
+	-fx-border-color: #7b7b7b;
+}
+
+.label{
+	-fx-font-size: 14.0px;
+}
+
+.error-label{
+	-fx-font-size: 12.0px;
+}
+
+.okay-button{
+	-fx-font-size: 16.0px;
+	-fx-background-color: #c0c0c0;
+
+ 	-fx-color: white;
+ 	-fx-padding: 4px 16px;
+	-fx-display: inline-block;
+}
+
+.inner-outline{
+	-fx-border-width: 1px 1px 1px 1px;
+	-fx-border-color: #7b7b7b #ffffff #ffffff #7b7b7b;
+}
+.outer-outline{
+	-fx-background-color: #c0c0c0; 
+	-fx-border-width: 1px 1px 1px 1px;
+	
+	-fx-border-color: #ffffff #7b7b7b #7b7b7b #ffffff;
+}
