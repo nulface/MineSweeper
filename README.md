@@ -1,4 +1,4 @@
 # Mine Sweeper
-####MineSweeper in javaFX
+#### MineSweeper in javaFX
 
-######Final project for programming II
+###### Final project for computer programming II
